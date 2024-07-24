@@ -3,7 +3,7 @@
 
 
 // Most Optimal Approach
-class Solution {
+class FindtheDuplicateNumber {
     public int findDuplicate(int[] nums) {
         int fast = 0;
         int slow = 0;
