@@ -1,8 +1,8 @@
 // 287. Find the Duplicate Number
-// Tortoise and hare algorithm
 
 
 // Most Optimal Approach
+// Tortoise and hare algorithm
 class FindtheDuplicateNumber {
     public int findDuplicate(int[] nums) {
         int fast = 0;

@@ -1,5 +1,6 @@
 // 26. Remove Duplicates from Sorted Array
 
+
 class RemoveDuplicates {
     public int removeDuplicates(int[] nums) {
         int count = 1;
