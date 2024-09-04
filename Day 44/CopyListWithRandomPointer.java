@@ -1,4 +1,4 @@
-// 38. Copy List with Random Pointer
+// 138. Copy List with Random Pointer
 
 public class CopyListWithRandomPointer {
     public Node copyRandomList(Node head) {
